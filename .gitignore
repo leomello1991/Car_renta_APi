@@ -1,0 +1,14 @@
+#NODE MODULES
+node_modules/
+.idea/
+.vscode/
+dist/
+coverage/
+tmp/*
+!tmp/.gitkeep
+
+# #ENV
+# .env
+# ormconfig.json
+
+Notations.MD
